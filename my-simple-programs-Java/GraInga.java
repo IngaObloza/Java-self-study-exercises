@@ -1,27 +1,3 @@
-
-// commit:
-// dodanie Math.abc(); oblicza wartość bezwzględną zmiennej liczbowej zamiast: (number2 == randomNumber + 1) i (number2 >= randomNumber + 5)
-// Próba poprawienia losowania liczb 1-10, żeby nie losowało 0 i 11.
-// Inna organizacja instrukcji warunkowych, przy definiowaniu warunków.
-// Wprowadzenie drugiej części - czy Ci się podobało? Napisz opinię. Chcesz zagrać ponownie?
-// Wprowadzenie pętli do...while / warunek: odpowiedź "tak" na pytanie czy użytkownik chce zagrać ponownie.
-// Wprowadzenie wstępu - zapytanie o imię i pytanie czy użytkownik chce zagrać w grę - gra rusza przy odpowiedzi "tak".
-// Wprowadzenie wstępu z interakcją - gra się przedstawia (ściwczę rozbudowaną wartść stringa) - czy da się to zapisać w bardziej pojemnym polu tekstowym?)
-//
-
-// Co jest do zrobienia:
-// nie jestem pewna czy losuje między 1-10. Przy zastosowaniu pierwszego sposobu wylosował raz 11.
-
-// - Jak wyświetlić wynik na samym końcu (w podsumowaniu)? Da się?
-// Np nadać jakiejś zmiennej wartość równą treści, która się wyświetliła wcześniej jako wynik lub
-// wyświetlić tylko: wygrałeś lub przegrałeś.
-// - skrócenie lub ułatwienie zapisu z pierwszej drukowanej zawartości - String
-// - jak nie pozwolić na wpisanie np 8/ lub liczby większej od byte (>=128)? (obie opcje rozsypują program)
-// - ogarnij losowanie 1-10.
-// - jakosć kodu? Inne rozwiązania?
-// - podsumuj zastosowane rozwiązania.
-// - możesz dać mi nowe zadania? - jakie funkcjonalności można tu wprowadzić?
-
 import java.util.Random;
 import java.util.Scanner;
 
