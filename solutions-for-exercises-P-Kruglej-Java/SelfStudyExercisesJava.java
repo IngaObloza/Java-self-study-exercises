@@ -1,7 +1,7 @@
 // - poniżej znajdują się moje rozwiązania ćwiczeń z podręcznika "Nauka programowania
 // w języku Java", autor: Przemysław Kruglej.
 // - ćwiczenia są podstawowe, stąd umieszczenie ich w jednym pliku i pod jedną klasą (ogólnie ćwiczenia).
-// - dla uruchomienia poszczególnych rozwiązań należy odkomentować samo rozwiązanie znajdujące się pod treścią zadania.
+// - dla uruchomienia poszczególnych rozwiązań należy odkomentować samo rozwiązanie znajdujące się pod treścią zadania a zakomentować inne/poprzednie.
 import java.util.Scanner;
 
 public class SelfStudyExercisesJava {
